@@ -1,2 +1,2 @@
 # HW-Wireframe
-repo for my portfolio structure
+Repository for my portfolio structure
